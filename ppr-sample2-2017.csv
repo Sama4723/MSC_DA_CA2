@@ -1,0 +1,10 @@
+index,Date of Sale (dd/mm/yyyy),Address,Postal Code,County,Price (),Not Full Market Price,VAT Exclusive,Description of Property,Property Size Description
+0,11311,11/09/2017,"12 BOROIMHE CEDARS, SWORDS, DUBLIN",,Dublin,"305,000.00",No,No,Second-Hand Dwelling house /Apartment,
+1,12003,22/09/2017,"6 THE DRIVE, HAZELBROOK SQUARE, CHURCHTOWN",Dublin 14,Dublin,"572,687.00",No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres
+2,5986,29/05/2017,"44 WELLVIEW PARK, TYRELLSTOWN, DUBLIN 15",Dublin 15,Dublin,"82,000.00",Yes,No,Second-Hand Dwelling house /Apartment,
+3,7157,23/06/2017,"19 FARMLEIGH CLOSE, WHITES RD, CASTLEKNOCK DUBLIN 15",Dublin 15,Dublin,"792,000.00",No,No,Second-Hand Dwelling house /Apartment,
+4,5495,17/05/2017,"17 Parkside Square, Parkside, Malahide Road",,Dublin,"336,997.80",No,Yes,New Dwelling house /Apartment,greater than or equal to 125 sq metres
+5,10733,31/08/2017,"119 STILLORGAN HEATH, STILLORGAN, DUBLIN",,Dublin,"750,000.00",No,No,Second-Hand Dwelling house /Apartment,
+6,17801,21/12/2017,"APT 29, 125 FRANCIS ST, DUBLIN 8",Dublin 8,Dublin,"295,000.00",No,No,Second-Hand Dwelling house /Apartment,
+7,2054,24/02/2017,"3 CATHEDRAL HOUSE, PATRICK ST, DUBLIN 8",Dublin 8,Dublin,"240,000.00",No,No,Second-Hand Dwelling house /Apartment,
+8,14469,08/11/2017,"29 MAPLEWOOD AVENUE, SPRINGFIELD, TALLAGHT",Dublin 24,Dublin,"216,000.00",No,No,Second-Hand Dwelling house /Apartment,
